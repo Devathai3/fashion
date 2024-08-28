@@ -1,0 +1,78 @@
+.one{
+    color: red;
+}
+#one{
+    text-align: left;
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+a{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+#hero-section{
+    text-align: right;
+}
+.two{
+    text-align: center;
+}
+    li,h1{
+        display: inline;
+        color: aqua;
+       }
+       ul{
+        margin-left: 80%;
+        text-decoration: none;
+        color: aqua;
+       }
+       body{
+        background-color: black;
+        color: white;
+       }
+       .img_deg{
+        display: inline-block;
+        float: left;
+       }
+       .img_fg{
+        float: right;
+       }
+       .three{
+                margin-bottom: 5px;
+       }      
+       .img_de{
+        text-align: center;
+        float:bottom;
+       }
+       .four{
+        float: left;
+        padding-top: 2%;    
+       }
+       .five{
+        margin-bottom: 2px;
+       }
+       body{
+          background-repeat: no-repeat;
+        background-size: cover;
+          }
+   .fact{
+    text-align: center;
+    background-size: ;
+   }
+   #deva{
+    text-align: center;
+   }
+   .dev p{
+    color: black;
+   }
+   .deva1 h1{
+    text-align: center;
+   }
+   .img_deg {
+   img{
+    margin-left: 50px;
+   }
+}
